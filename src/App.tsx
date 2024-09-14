@@ -1,5 +1,4 @@
 import "./App.css";
-import File from "./components/File";
 import AroLogo from "./icons/AroLogo";
 import MenuItem from "./components/MenuItem";
 import DocumentOverview from "./components/DocumentOverview";
