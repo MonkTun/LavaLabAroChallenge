@@ -1,0 +1,49 @@
+.files-grid-view {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+  width: 100%;
+  left: 400px;
+  top: 75px;
+}
+
+.grid {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 23px 25px;
+  position: relative;
+  width: 100%;
+  grid-template-columns: 325px 325px 325px;
+}
+
+.header {
+  display: flex;
+justify-content: flex-start;
+align-items: center;
+gap: 817px;
+align-self: stretch;
+}
+
+.header-text {
+  color: #000;
+  font-family: "Manrope", Helvetica;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+padding-bottom: 25px;
+}
+
+.toggle 
+{
+  color: #000;
+  position: absolute;
+  right: 10;
+}

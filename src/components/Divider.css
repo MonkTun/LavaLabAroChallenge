@@ -1,0 +1,8 @@
+.divider {
+    width: 100%;
+    height: 0px;
+    transform: rotate(-0.054deg);
+    flex-shrink: 0;
+    stroke-width: 1px;
+stroke: #CBCBD5;
+}

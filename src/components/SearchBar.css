@@ -1,0 +1,43 @@
+.search-bar {
+    align-items: flex-start;
+    border: 2px solid;
+    border-color: #c9c9c9;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    height: 67px;
+    justify-content: center;
+    padding: 0px 20px;
+    position: relative;
+    width: 723px;
+    overflow: hidden;
+}
+
+.frame {
+    align-items: center;
+    display: flex;
+    flex: 0 0 auto;
+    gap: 10px;
+    position: relative;
+    width: 401px;
+}
+
+.magnify-instance {
+    height: 24px !important;
+    position: relative !important;
+    width: 24px !important;
+}
+
+.text-wrapper {
+    color: #737373;
+    font-family: "Manrope-Medium", Helvetica;
+    font-size: 18px;
+    font-weight: 500;
+    height: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: 245.35px;
+}

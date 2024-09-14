@@ -1,0 +1,13 @@
+.createbutton {
+    display: flex;
+    width: 261px;
+    height: 40px;
+    padding: 8px 20px;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+    flex-shrink: 0;
+    border-radius: 8px;
+background: #34347B;
+  }
+  

@@ -1,0 +1,67 @@
+#root {
+  background-color: #f4f4f4;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+  position: relative;
+}
+
+.dashboard-all {
+  background-color: #f4f4f4;
+  height: 100vh;
+  overflow: hidden;
+  width: 100vw;
+  position: relative;
+}
+
+.side-panel {
+  background-color: #ededed;
+  border-color: #cbcbd5;
+  border-right-style: solid;
+  border-right-width: 1px;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 330px;
+}
+.overlap-group-2 {
+  height: 237px;
+  left: 29px;
+  position: relative;
+  top: 137px;
+  width: 272px;
+}
+
+.aro-logo {
+  height: 42px;
+  left: 80px;
+  position: absolute;
+  top: 57px;
+  width: 126px;
+}
+
+.menu {
+  align-items: flex center;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 20px;
+  left: 33px;
+  position: absolute;
+  top: 147px;
+  list-style-type: none;
+  /* width: 272px; */
+}
+
+.button {
+
+  left: 33px;
+  position: absolute;
+  bottom: 100px;
+}
+
+/* .menu:hover {
+  background: rgba(193, 193, 208, 0.55); */
+/* } */
+

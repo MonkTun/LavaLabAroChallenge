@@ -1,0 +1,64 @@
+.file {
+  align-items: flex-start;
+  background-color: #f6f6f6;
+  border: 2px solid;
+  border-color: #c9c9c9;
+  border-radius: 8px;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 24px;
+  overflow: hidden;
+  padding: 24px;
+  position: relative;
+  width: 330px;
+}
+
+.file .display {
+  background-color: #d9d9d9;
+  border-radius: 4px;
+  height: 175px;
+  position: relative;
+  width: 275px;
+}
+
+.file .file-document {
+  height: 85px !important;
+  left: 95px !important;
+  position: absolute !important;
+  top: 45px !important;
+  width: 85px !important;
+}
+
+.file .text {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.file .text-wrapper {
+  color: #000000;
+  font-family: "Manrope", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.file .time-stamp {
+  color: #000000;
+  font-family: "Manrope", Helvetica;
+  font-size: 18px;
+  height: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+
