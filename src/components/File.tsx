@@ -1,4 +1,3 @@
-import FileDocumentLogo from "./assets/file-document.svg";
 import "./File.css";
 import FileDocument from "../icons/FileDocument";
 

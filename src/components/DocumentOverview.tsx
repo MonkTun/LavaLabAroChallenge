@@ -1,4 +1,3 @@
-import React from "react";
 import File from "./File";
 import "./DocumentOverview.css";
 import ViewToggle from "./ViewToggle";

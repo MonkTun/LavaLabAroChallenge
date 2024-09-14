@@ -1,4 +1,3 @@
-import React from "react";
 import "./MenuItem.css";
 import ArchivedIcon from "../icons/ArchivedIcon";
 import SharedIcon from "../icons/SharedIcon";

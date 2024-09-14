@@ -1,4 +1,3 @@
-import React from "react";
 import ViewGridIcon from "../icons/ViewGridIcon";
 import ViewListIcon from "../icons/ViewListIcon";
 

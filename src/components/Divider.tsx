@@ -1,4 +1,3 @@
-import React from "react";
 import DividerIcon from "../icons/DividerIcon";
 
 const Divider = () => {
